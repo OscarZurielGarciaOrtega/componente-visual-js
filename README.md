@@ -1,4 +1,4 @@
-# 🍞 Componente Visual: Notificaciones Toast
+#  Componente Visual: Notificaciones Toast
 
 **Autor:** Oscar Zuriel García Ortega  
 **Actividad:** Actividad 3. Componente Visual con JS  
@@ -9,7 +9,7 @@ En las interfaces web modernas, es fundamental proporcionar retroalimentación i
 
 Este componente resuelve este problema generando notificaciones emergentes (**Toasts**) elegantes, dinámicas, atractivas visualmente y completamente no bloqueantes. Cumple al 100% con los requisitos de la rúbrica al ser un **componente visual interactivo**: inyecta una estructura HTML/CSS completamente nueva al DOM de forma dinámica y responde de manera fluida tanto al paso del tiempo (autoborrado) como a las acciones directas del usuario (clic para cerrar).
 
-## ⚙️ Instalación
+##  Instalación
 Para implementar esta librería en cualquier proyecto web, solo se deben incluir los archivos de estilo y comportamiento dentro del documento HTML.
 
 1. Vincula el archivo CSS dentro de la etiqueta `<head>` de tu página:
@@ -45,9 +45,13 @@ A continuación, se muestran ejemplos reales de cómo invocar el componente desd
     });
 
 ##  Capturas de Pantalla
-A continuación se detalla el comportamiento visual interactivo y la correcta aplicación de estilos dinámicos en el navegador:
+<img width="1265" height="836" alt="Captura de pantalla 2026-07-05 114714" src="https://github.com/user-attachments/assets/3b4ded55-e780-4310-ac20-1b2097c7a80b" />
 
-![Demo del componente Toast funcionando en vivo](img/captura.png)
+<img width="1242" height="816" alt="Captura de pantalla 2026-07-05 114727" src="https://github.com/user-attachments/assets/b788f34a-a7ff-4190-963b-91002c28c5d1" />
+
+<img width="1222" height="806" alt="Captura de pantalla 2026-07-05 114755" src="https://github.com/user-attachments/assets/338e7c97-30dd-4848-a6cb-60be4522877a" />
+
+
 
 ##  Video Promocional (Demo de 60 Segundos)
 En el siguiente enlace se presenta el demo promocional en video, donde se explica el problema de diseño que resuelve el componente, cómo se integra mediante código y una demostración de su funcionamiento interactivo en tiempo real:
