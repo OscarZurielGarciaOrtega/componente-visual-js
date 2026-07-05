@@ -53,7 +53,7 @@ A continuación, se muestran ejemplos reales de cómo invocar el componente desd
 
 
 
-##  Video Promocional (Demo de 60 Segundos)
+##  Video Promocional
 En el siguiente enlace se presenta el demo promocional en video, donde se explica el problema de diseño que resuelve el componente, cómo se integra mediante código y una demostración de su funcionamiento interactivo en tiempo real:
 
 * [Ver Video Demo del Componente Toast](PEGA_AQUI_EL_LINK_DE_TU_VIDEO)
