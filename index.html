@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo Toast Visual</title>
+    <style>
+        body { font-family: sans-serif; padding: 50px; text-align: center; }
+        button { padding: 10px 20px; margin: 5px; cursor: pointer; border: none; border-radius: 5px; font-size: 16px; color: white; }
+        .btn-success { background: #28a745; }
+        .btn-error { background: #dc3645; }
+        .btn-info { background: #17a2b9; }
+    </style>
+    <link rel="stylesheet" href="css/componente.css">
+</head>
+<body>
+
+    <h1>Demo del Componente Toast</h1>
+    <p>Haz click en los botones para probar el componente reutilizable.</p>
+
+    <button class="btn-success" onclick="Toast.show({ message: '¡Datos guardados con éxito!', type: 'success' })">Éxito</button>
+    <button class="btn-error" onclick="Toast.show({ message: 'Error de conexión', type: 'error' })">Error</button>
+    <button class="btn-info" onclick="Toast.show({ message: '¡Tienes un nuevo mensaje!', type: 'info', duration: 5000 })">Info (5s)</button>
+
+    <script src="js/componente.js" ></script>
+    
+</body>
+</html>
