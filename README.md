@@ -1,6 +1,6 @@
 #  Componente Visual: Notificaciones Toast
 
-**Autor:** Oscar Zuriel García Ortega  
+**Autor:** García Ortega Oscar Zuriel  
 **Actividad:** Actividad 3. Componente Visual con JS  
 **Modalidad:** Individual  
 
