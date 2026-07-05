@@ -61,4 +61,4 @@ En el siguiente enlace se presenta el demo promocional en video, donde se explic
 ##  Enlace a GitHub Pages
 El componente visual se encuentra desplegado de forma pública y puede ser probado directamente en el entorno de producción a través del siguiente enlace obligatorio:
 
-* [Ver Componente Funcionando en Vivo (GitHub Pages)](PEGA_AQUI_EL_LINK_DE_TU_GITHUB_PAGES)
+* [Ver Componente Funcionando en Vivo (GitHub Pages)](https://oscarzurielgarciaortega.github.io/componente-visual-js/)
