@@ -56,7 +56,7 @@ A continuación, se muestran ejemplos reales de cómo invocar el componente desd
 ##  Video Promocional
 En el siguiente enlace se presenta el demo promocional en video, donde se explica el problema de diseño que resuelve el componente, cómo se integra mediante código y una demostración de su funcionamiento interactivo en tiempo real:
 
-* [Ver Video Demo del Componente Toast](PEGA_AQUI_EL_LINK_DE_TU_VIDEO)
+* [Ver Video Demo del Componente Toast](https://drive.google.com/file/d/1za36oSzF-U5lx_HqZftuydIBV7TAunPr/view?usp=sharing)
 
 ##  Enlace a GitHub Pages
 El componente visual se encuentra desplegado de forma pública y puede ser probado directamente en el entorno de producción a través del siguiente enlace obligatorio:
